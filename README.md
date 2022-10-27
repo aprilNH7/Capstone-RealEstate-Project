@@ -18,7 +18,7 @@ npx truffle develop
 compile
 migrate --reset
 
-Cd into test folder
+Cd into test folder:
 cd test
 
 Test to make sure project is running correctly:
