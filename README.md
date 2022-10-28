@@ -30,3 +30,8 @@ Test to make sure independent contracts are working correctly:
 npx truffle test TestERC721Mintable.js
 npx truffle test TestSquareVerifier.js
 npx truffle test TestSolnSquareVerifier.js
+
+Minted Tokens:
+https://goerli.etherscan.io/address/0x5aF6B92FBB9d816D1fC218c7bfccc0cb144a9B16
+
+
