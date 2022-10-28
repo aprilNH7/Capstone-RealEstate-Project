@@ -34,4 +34,18 @@ npx truffle test TestSolnSquareVerifier.js
 Minted Tokens:
 https://goerli.etherscan.io/address/0x5aF6B92FBB9d816D1fC218c7bfccc0cb144a9B16
 
+Contract ABI's:
+Verifier: ./eth-contracts/build/contracts/Verifier.json
+SolnSquareVerifier: ./eth-contracts/build/contracts/SolnSquareVerifier.json
+
+Contract Addresses:
+SolnSquareVerifier: https://goerli.etherscan.io/address/0x67c0fdbee7f53a3580cd3f8e21d59dd8afb26e7b
+Verifier: https://goerli.etherscan.io/address/0x8c0aa71cca9aa8EBCfDcCB482A8C2b248E7a150e
+
+OpenSea Token Collection:
+https://testnets.opensea.io/collection/coblxck
+
+
+
+
 
